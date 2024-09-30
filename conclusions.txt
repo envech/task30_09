@@ -1,0 +1,4 @@
+The first script effectively sorts three integers using a minimal number of conditional statements, demonstrating an efficient approach to problem-solving with limited control structures. 
+
+The second script counts the number of string elements in a mixed-type list, showcasing Python's dynamic typing and the ease of type checking. 
+
